@@ -4,7 +4,7 @@ WHY NOTTTTTTTT
 
 # Schema
 
-|User      |
+|User      | 
 |----------|
 |Id        |
 |Username  |
@@ -13,12 +13,6 @@ WHY NOTTTTTTTT
 |Auth_type |
 |Created_at|
 
-|Delegate  |
-|----------|
-|Id        |
-|Username  |
-|Email     |
-|UserId    |
 
 |System    |
 |----------|
