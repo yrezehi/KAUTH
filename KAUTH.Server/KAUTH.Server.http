@@ -1,0 +1,6 @@
+@KAUTH.Server_HostAddress = http://localhost:5286
+
+GET {{KAUTH.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

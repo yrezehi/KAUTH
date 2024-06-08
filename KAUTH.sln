@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34916.146
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KAUTH.Server", "KAUTH.Server\KAUTH.Server.csproj", "{D55FCAE1-D57F-4A33-9766-EF29975D7B29}"
+EndProject
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "kauth.client", "kauth.client\kauth.client.esproj", "{5AEB7490-61AF-4339-A8CC-5D42C2C12802}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D55FCAE1-D57F-4A33-9766-EF29975D7B29}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D55FCAE1-D57F-4A33-9766-EF29975D7B29}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D55FCAE1-D57F-4A33-9766-EF29975D7B29}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D55FCAE1-D57F-4A33-9766-EF29975D7B29}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5AEB7490-61AF-4339-A8CC-5D42C2C12802}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5AEB7490-61AF-4339-A8CC-5D42C2C12802}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5AEB7490-61AF-4339-A8CC-5D42C2C12802}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{5AEB7490-61AF-4339-A8CC-5D42C2C12802}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5AEB7490-61AF-4339-A8CC-5D42C2C12802}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5AEB7490-61AF-4339-A8CC-5D42C2C12802}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8FECAF41-5C27-459A-A66E-BCCC1C076961}
+	EndGlobalSection
+EndGlobal
